@@ -1,0 +1,11 @@
+/Users/simon/Documents/Coding/Rust/double_pendulum/target/rls/debug/deps/futures_core-d811309c14c3e456.rmeta: /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/lib.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/future.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/stream.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/mod.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/poll.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/mod.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/atomic_waker.rs
+
+/Users/simon/Documents/Coding/Rust/double_pendulum/target/rls/debug/deps/futures_core-d811309c14c3e456.d: /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/lib.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/future.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/stream.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/mod.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/poll.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/mod.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/atomic_waker.rs
+
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/lib.rs:
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/future.rs:
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/stream.rs:
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/mod.rs:
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/poll.rs:
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/mod.rs:
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/atomic_waker.rs:

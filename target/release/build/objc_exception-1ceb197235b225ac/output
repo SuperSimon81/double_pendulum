@@ -1,0 +1,26 @@
+TARGET = Some("aarch64-apple-darwin")
+OPT_LEVEL = Some("3")
+HOST = Some("aarch64-apple-darwin")
+CC_aarch64-apple-darwin = None
+CC_aarch64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_aarch64-apple-darwin = None
+CFLAGS_aarch64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("false")
+CARGO_CFG_TARGET_FEATURE = None
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-arch" "arm64" "-Wall" "-Wextra" "-o" "/Users/simon/Documents/Coding/Rust/double_pendulum/target/release/build/objc_exception-1ceb197235b225ac/out/extern/exception.o" "-c" "extern/exception.m"
+exit status: 0
+AR_aarch64-apple-darwin = None
+AR_aarch64_apple_darwin = None
+HOST_AR = None
+AR = None
+running: "ar" "cq" "/Users/simon/Documents/Coding/Rust/double_pendulum/target/release/build/objc_exception-1ceb197235b225ac/out/libexception.a" "/Users/simon/Documents/Coding/Rust/double_pendulum/target/release/build/objc_exception-1ceb197235b225ac/out/extern/exception.o"
+exit status: 0
+running: "ar" "s" "/Users/simon/Documents/Coding/Rust/double_pendulum/target/release/build/objc_exception-1ceb197235b225ac/out/libexception.a"
+exit status: 0
+cargo:rustc-link-lib=static=exception
+cargo:rustc-link-search=native=/Users/simon/Documents/Coding/Rust/double_pendulum/target/release/build/objc_exception-1ceb197235b225ac/out

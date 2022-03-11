@@ -1,0 +1,1 @@
+{"rustc":4267013100057791849,"features":"[]","target":7987416667372741628,"profile":2285152228202085614,"path":14902495164386720772,"deps":[[2452538001284770427,"cfg_if",false,16225028750221024796]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/instant-e8a5e01a0803bccb/dep-lib-instant"}}],"rustflags":[],"metadata":124121305543948399,"config":0,"compile_kind":0}

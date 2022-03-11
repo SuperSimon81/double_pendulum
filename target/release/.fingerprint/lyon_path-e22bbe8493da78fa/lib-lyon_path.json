@@ -1,0 +1,1 @@
+{"rustc":4267013100057791849,"features":"[]","target":3999263942538286359,"profile":2285152228202085614,"path":1787690847507771121,"deps":[[2121071543023988740,"lyon_geom",false,48466896148352475]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/lyon_path-e22bbe8493da78fa/dep-lib-lyon_path"}}],"rustflags":[],"metadata":17290755118847892236,"config":0,"compile_kind":0}

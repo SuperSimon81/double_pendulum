@@ -1,0 +1,13 @@
+/Users/simon/Documents/Coding/Rust/double_pendulum/target/rls/debug/deps/lyon_path-21fe1c1cf4e78d26.rmeta: /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/lib.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/builder.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/commands.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/events.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/iterator.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/path.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/path_buffer.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/polygon.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/private.rs
+
+/Users/simon/Documents/Coding/Rust/double_pendulum/target/rls/debug/deps/lyon_path-21fe1c1cf4e78d26.d: /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/lib.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/builder.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/commands.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/events.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/iterator.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/path.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/path_buffer.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/polygon.rs /Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/private.rs
+
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/lib.rs:
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/builder.rs:
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/commands.rs:
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/events.rs:
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/iterator.rs:
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/path.rs:
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/path_buffer.rs:
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/polygon.rs:
+/Users/simon/.cargo/registry/src/github.com-1ecc6299db9ec823/lyon_path-0.17.7/src/private.rs:
