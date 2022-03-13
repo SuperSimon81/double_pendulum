@@ -11,7 +11,7 @@ const PI: f64 = 3.14159265359;
 const TIME_STEP: f64 = 0.10159265359;
 //Offset to starting condition
 
-const NUM_PENDULUMS: u32 = 10000;
+const NUM_PENDULUMS: u32 = 1000000000;
 const OFFSET : f64 = 0.1/NUM_PENDULUMS as f64;
 
 fn main() {
@@ -106,7 +106,7 @@ fn view(app: &App, _model: &Model, frame: Frame) {
     
     for pendulum in _model.list.iter() {
         //Have some fun with color
-        let c  = hsva(count/NUM_PENDULUMS as f32,1.0,1.0,0.01);
+        let c  = hsva(count/NUM_PENDULUMS as f32,1.0,1.0,0.001);
         count +=1.0;
         let x = L as f32 * (pendulum[0] - PI / 2.0).cos() as f32;
         let y = L as f32 * (pendulum[0] - PI / 2.0).sin() as f32;
@@ -147,8 +147,8 @@ fn view(app: &App, _model: &Model, frame: Frame) {
     draw.to_frame(app, &frame).unwrap();
     
     //Do you want to capture to disk in order to make a gif?
-    //let file_path = capture_frame_to_path(app, &frame);
-    //app.main_window().capture_frame(file_path);
+    let file_path = capture_frame_to_path(app, &frame);
+    app.main_window().capture_frame(file_path);
 
     //println!("{}",app.elapsed_frames());
     if app.elapsed_frames()>1023
@@ -160,10 +160,10 @@ fn view(app: &App, _model: &Model, frame: Frame) {
 
 //If you would like to render to disk
 
-/*fn capture_frame_to_path(app: &App, frame: &Frame) -> std::path::PathBuf {
+fn capture_frame_to_path(app: &App, frame: &Frame) -> std::path::PathBuf {
 app.project_path()
     .expect("failed to locate `project_path`")
     .join(app.exe_name().unwrap())
     .join(format!("{:03}", frame.nth()))
     .with_extension("png")
-}*/
+}
